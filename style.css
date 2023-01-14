@@ -1,0 +1,12 @@
+body {
+
+    color: #000000;
+    background-color: #acf3b6;
+    font-family:'Lucida Handwriting';
+  }
+
+.jumbotron {
+    background-image: url("Biology.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
